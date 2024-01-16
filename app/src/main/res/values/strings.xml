@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Take Home Challenge App</string>
+    <string name="dummy_name">John Doe</string>
+    <string name="dummy_species">Human</string>
+    <string name="dummy_origin">Earth</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_data_message">Failed to fetch data.</string>
+    <string name="error_icon">error icon</string>
+    <string name="search_character">Search character…</string>
+    <string name="image_of_character">image of character</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_problem">An unexpected problem occurred.</string>
+    <string name="favorite_insert">Added to favorite character.</string>
+    <string name="favorite_delete">Deleted to favorite character.</string>
+    <string name="favorite_char">Favorite Character</string>
+    <string name="back">Back</string>
+    <string name="character_avatar">Character avatar</string>
+    <string name="gender">Gender</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+    <string name="character_not_found">Character not found.</string>
+    <string name="fav_not_found">You don\'t have a favorite character yet</string>
+    <string name="remove_from_favorite">Remove from favorite</string>
+</resources>
