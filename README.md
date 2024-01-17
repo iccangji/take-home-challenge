@@ -1,4 +1,4 @@
-# Project Name
+# Take Home Challenge App
 
 ## <a name="introduction"></a> Introduction :
 Application that displays a list of Rick and Morty characters with search features and a local list of favorite characters.
