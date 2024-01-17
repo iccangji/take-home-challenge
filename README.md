@@ -17,7 +17,6 @@ Application that displays a list of Rick and Morty characters with search featur
 - [APK Link](#apk-link)
 
 ## <a name="features"></a> Features :
-You may list what feature you created, example :
 - List of all character
 - Detail character
 - Search Character
@@ -25,7 +24,6 @@ You may list what feature you created, example :
 
 
 ## <a name="libraries"></a> Libraries :
-You may list what libraries you used in this project, example :
 - Kotlin Android 1.9.10
 - Glide for Image Loader
 - Room for Local Data Persistence
