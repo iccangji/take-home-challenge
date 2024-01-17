@@ -1,8 +1,11 @@
-![Screenshot_20240117_074544](https://github.com/iccangji/take-home-challenge/assets/77067538/c2875202-b2a0-4fc8-905a-7225c15b06a4)# Project Name
+# Project Name
 
 ## <a name="introduction"></a> Introduction :
 Application that displays a list of Rick and Morty characters with search features and a local list of favorite characters.
-![Screenshot_20240117_074544](https://github.com/iccangji/take-home-challenge/assets/77067538/841ae624-9e72-49c7-a29a-b6a0a0e490d4)![Screenshot_20240117_074633](https://github.com/iccangji/take-home-challenge/assets/77067538/6838cc35-b8d0-4a51-9806-541dcb870a76)![Screenshot_20240117_074656](https://github.com/iccangji/take-home-challenge/assets/77067538/c249e064-25b6-4eec-8af1-3fff7dd2320e)![Screenshot_20240117_074714](https://github.com/iccangji/take-home-challenge/assets/77067538/8157d21b-b8e9-4bec-a1b6-5794b68784c8)
+![Screenshot_20240117_074544](https://github.com/iccangji/take-home-challenge/assets/77067538/841ae624-9e72-49c7-a29a-b6a0a0e490d4)
+![Screenshot_20240117_074633](https://github.com/iccangji/take-home-challenge/assets/77067538/6838cc35-b8d0-4a51-9806-541dcb870a76)
+![Screenshot_20240117_074656](https://github.com/iccangji/take-home-challenge/assets/77067538/c249e064-25b6-4eec-8af1-3fff7dd2320e)
+![Screenshot_20240117_074714](https://github.com/iccangji/take-home-challenge/assets/77067538/8157d21b-b8e9-4bec-a1b6-5794b68784c8)
 
 
 ## Table of Contents
